@@ -1,0 +1,10 @@
+- name: def_country_getter
+  type: table
+  desc: Functions for getting country codes from device api
+  members:
+
+#*****************************************************************************************************
+
+  - name: get_country
+    type: function
+

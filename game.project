@@ -1,0 +1,5 @@
+[project]
+title = def_country_getter
+
+[library]
+include_dirs = def_country_getter

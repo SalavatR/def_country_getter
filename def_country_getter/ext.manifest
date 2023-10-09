@@ -1,0 +1,6 @@
+name: "CountryGetterExt"
+
+platforms:
+    android:
+        context:
+            aaptExtraPackages: ['android.telephony']
